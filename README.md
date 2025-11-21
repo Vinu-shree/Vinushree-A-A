@@ -7,8 +7,16 @@
 - Embedded C  
 - Microcontrollers  
 - Sensors  
-- ARM Cortex-M3 basics  
-
+- ARM Cortex-M3 basics
+  
+ ## 🧠 VLSI & Digital Electronics
+- Digital Electronics (logic gates, Boolean algebra, K-maps)
+- Combinational & Sequential circuit design
+- Verilog HDL
+- RTL Design
+- Testbench writing
+- FPGA basics
+  
 ## 🔥 What I Do  
 - Embedded C programming  
 - Microcontroller-based mini projects  
